@@ -1,0 +1,3 @@
+﻿  qz.cpp
+D:\project\强制转换_cpp\qz.cpp(11,10): warning C4305: “初始化”: 从“double”到“float”截断
+  强制转换_cpp.vcxproj -> D:\project\强制转换_cpp\x64\Debug\强制转换_cpp.exe
